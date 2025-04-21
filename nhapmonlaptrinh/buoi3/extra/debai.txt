@@ -1,0 +1,1 @@
+Nhap 2 khoang a,b check xem co bao nhieu cap so Nguyen to ma 2 so do la 2 so doi xung voi nha(lat nguoc lai vancho ket qua bang nhau) trong doan [a,b]

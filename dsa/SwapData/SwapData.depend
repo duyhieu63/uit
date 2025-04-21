@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743413317 source:c:\users\admin\onedrive\documents\codeblock\dsa\swapdata\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+

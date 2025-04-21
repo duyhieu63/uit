@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742292091 source:c:\users\admin\onedrive\documents\codeblock\dsa\modathiem\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

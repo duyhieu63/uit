@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742285920 source:c:\users\admin\onedrive\documents\codeblock\dsa\trochoixoayvong\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,2 @@
+xét tới căn bậc n
+đầu tiên xét ước t1 sau đó lấy n/ước t1 -> ước t2

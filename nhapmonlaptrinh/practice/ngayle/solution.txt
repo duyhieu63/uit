@@ -1,0 +1,4 @@
+dùng thư viện c_time
+tạo 1 biến t dùng để tính từ ngày đầu tiên của năm 1900
+dùng 1 biến thứ tự để check xem đó là thứ lần mấy trong tháng
+https://jobs.hybrid-technologies.vn/blog/tim-hieu-date-va-time-trong-c/

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743411353 source:c:\users\admin\onedrive\documents\codeblock\dsa\the_ith_element\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+

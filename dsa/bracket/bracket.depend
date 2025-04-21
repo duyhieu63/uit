@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742782013 source:c:\users\admin\onedrive\documents\codeblock\dsa\bracket\main.cpp
+	<string>
+	<cstring>
+	<iostream>
+

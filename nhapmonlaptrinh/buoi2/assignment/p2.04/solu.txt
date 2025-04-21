@@ -1,0 +1,6 @@
++ Nếu phần dư lớn hơn hoặc bằng 0.5, làm tròn lên đến số nguyên tiếp theo và trừ đi phần thừa để đưa về đúng mức lẻ 1/n.
++ Nếu phần dư nhỏ hơn 0.5, làm tròn xuống đến số nguyên trước đó và cộng thêm phần thiếu để đưa về đúng mức lẻ 1/n.
++ Hàm fmod() trả về phần dư của phép chia x cho y, tức là phần dư sau khi x chia y. Giá trị trả về sẽ có kiểu double.
+Vdu : double x = 10.5;
+    double y = 3.0;
+    double remainder = fmod(x, y); // dư của 10.5 / 3 là 1.5
